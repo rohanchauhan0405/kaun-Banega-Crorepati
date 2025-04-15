@@ -1,6 +1,3 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-print("Try programiz.pro")
 name = str(input("Enter Your Name : "))
 print(f"{name} welcome to Show Kaun Banega Crorepati")
 
