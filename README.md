@@ -11,10 +11,12 @@ Each correct answer brings you closer to winning a virtual fortune! 💸
 
 **Python**
 
+
+
 **💻 How to Run It**
 
 1.**Clone the repo to get the game:**
-git clone https://github.com/your-username/kbcc.git
+git clone https://github.com/rohanchauhan0405/kaun-Banega-Crorepati.git
 cd kbcc
 
 **Run the Python script:**
