@@ -7,7 +7,8 @@ Welcome to KBCC – a fun, interactive Python game inspired by the famous Indian
 Answer a series of general knowledge questions 🧠.
 Each correct answer brings you closer to winning a virtual fortune! 💸
 
-**Tech Stack**
+**Tech Stack:**
+
 **Python**
 
 **💻 How to Run It**
